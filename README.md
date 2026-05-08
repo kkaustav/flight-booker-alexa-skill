@@ -21,8 +21,6 @@ Just say the word — Alexa finds your flight, live, in real time.
 
 ## 🏗️ Architecture
 
-## 🏗️ Architecture
-
 ```mermaid
 flowchart TD
     A[Alexa Device\nVoice Input] -->|Spoken Request| B[Alexa Skills Kit\nIntent Router]
